@@ -1,0 +1,18 @@
+<odoo>
+    <template id="homepage" name="FlexFoot Home">
+        <t t-call="website.layout">
+            <div class="container mt-5">
+                <h1 class="text-center">Welcome to FlexFoot</h1>
+                <p class="text-center">
+                    Buy stylish and comfortable shoes online.
+                </p>
+
+                <div class="text-center mt-4">
+                    <a href="/shop" class="btn btn-primary">
+                        Shop Now
+                    </a>
+                </div>
+            </div>
+        </t>
+    </template>
+</odoo>
