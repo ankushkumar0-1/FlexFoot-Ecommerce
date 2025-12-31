@@ -1,0 +1,82 @@
+# Flexfoot - online shoes store (e-commerce website)
+
+FlexFoot is an online shoe shopping website developed using **Odoo ERP**.  
+This project demonstrates the working of an e-commerce platform including product display, cart system, and payment integration.
+
+---
+
+## 📌 Project Objective
+To design and develop an online shoe store where users can:
+- Browse products
+- View product details
+- Add products to cart
+- Place orders online
+- Experience a simple and responsive UI
+
+---
+
+## 🛠 Technologies Used
+- Odoo ERP
+- Python
+- PostgreSQL
+- HTML & CSS
+- Odoo Website Builder
+- Razorpay (Test Mode)
+
+---
+
+## 🗂 Project Structure
+
+
+
+
+
+---
+
+## 💾 Database Details
+- Database: PostgreSQL  
+- ORM: Odoo ORM  
+- Tables Used:
+  - flexfoot_product
+  - res_users
+  - sale_order  
+
+---
+
+## 📸 Screenshots
+Screenshots of the project are included in this repository:
+- Home Page
+- Product Page
+- Cart Page
+- Checkout Page
+
+---
+
+## 🎥 Project Demo
+A demo video of the working website is included in the repository.
+
+---
+
+## ✅ Features
+- Responsive design
+- Product listing
+- Shopping cart
+- Secure checkout
+- Admin product management
+- Payment integration (Test Mode)
+
+---
+
+## 👨‍💻 Developed By
+**Ankush Kumar**
+
+---
+
+## 📌 Conclusion
+This project helped in understanding:
+- Odoo framework
+- MVC architecture
+- E-commerce workflow
+- Backend and frontend integration
+
+The project is created for academic and learning purposes.
