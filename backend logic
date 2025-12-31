@@ -1,0 +1,10 @@
+
+
+class FlexFootProduct(models.Model):
+    _name = 'flexfoot.product'
+    _description = 'FlexFoot Product'
+
+    name = fields.Char(string="Product Name", required=True)
+    price = fields.Float(string="Price")
+    description = fields.Text(string="Description")
+    available = fields.Boolean(string="Available", default=True)
